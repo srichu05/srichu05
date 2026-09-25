@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Sri Charan Rao 👋
+# Sri Charan Rao
 
-### `AI/ML Engineer • AIML Student • GenAI • Agentic AI • RAG`
+### AI/ML Engineer | AIML Student | Generative AI | Agentic AI | RAG
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Building+Practical+AI%2FML+Systems;Exploring+Generative+%26+Agentic+AI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;RAG+%7C+Computer+Vision+%7C+LLM+Applications" />
 
@@ -14,58 +14,66 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm an **Artificial Intelligence & Machine Learning engineering student** interested in building practical, deployable AI systems.
+I'm an Artificial Intelligence & Machine Learning engineering student focused on building practical and deployable AI systems.
 
-My work spans **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, RAG, and Agentic AI**, with a focus on turning ideas into working applications.
+My interests span Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, RAG, and Agentic AI. I enjoy taking ideas from experimentation to working applications with APIs, databases, and deployment.
 
-- 🔭 Building AI/ML and GenAI projects
-- 🤖 Exploring Multi-Agent Systems & Agentic AI
-- 🧠 Working with LLMs, RAG & semantic retrieval
-- 🚀 Interested in production-oriented AI applications
-- ⚛️ Exploring Quantum Computing
+Currently exploring:
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation
+- Multi-Agent and Agentic AI systems
+- Computer Vision and NLP
+- Production-oriented AI engineering
+- Quantum Computing
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### Languages
+**Languages**
+
 `Python` `C` `C++` `SQL` `JavaScript` `TypeScript`
 
-### AI / ML
+**Machine Learning & Deep Learning**
+
 `Scikit-learn` `TensorFlow` `PyTorch` `Pandas` `NumPy`
 
-### GenAI / NLP
+**Generative AI & NLP**
+
 `Gemini` `Groq` `Cohere` `Hugging Face` `Transformers`  
 `RAG` `FAISS` `Sentence Transformers` `spaCy` `NLTK`
 
-### AI Engineering
-`Multi-Agent Systems` `LLM Applications` `Prompt Engineering`  
-`Semantic Search` `Embeddings` `Reflection` `AI Workflows`
+**AI Engineering**
 
-### Development & Deployment
+`LLM Applications` `Multi-Agent Systems` `Embeddings`  
+`Semantic Search` `Prompt Engineering` `Reflection` `AI Workflows`
+
+**Development & Deployment**
+
 `FastAPI` `Flask` `React` `Streamlit`  
 `PostgreSQL` `SQLite` `Supabase`  
 `Git` `GitHub` `Docker` `Vercel` `Render`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What I Built | Technologies |
+| Project | Description | Technologies |
 |---|---|---|
-| 🤖 **Mini Meta-Agent** | Multi-agent mathematical reasoning & debate system | Python • RAG • FAISS • LLMs |
-| 📚 **Doc2Learn-AI** | AI-powered document-to-learning platform | FastAPI • RAG • OCR • PostgreSQL |
-| 🖼️ **AI Museum** | Museum artifact recognition with AI assistance | CNN • TensorFlow • Multimodal AI |
-| 💳 **RecoverAI** | Autonomous revenue recovery workflow | Agentic AI • Flask • React • Groq |
-| 👔 **AI-HireSphere** | AI-assisted resume & candidate matching | FastAPI • React • Gemini |
-| 🌍 **Geospatial Risk Mapping** | AI-based localized environmental risk analysis | ML • Satellite Data • Geospatial AI |
-| ⚛️ **Quantum Computing** | Quantum programming & algorithm implementations | Python • Quantum Computing |
+| **Mini Meta-Agent** | Multi-agent mathematical reasoning and automated debate system | Python · RAG · FAISS · LLMs |
+| **Doc2Learn-AI** | Intelligent document-to-learning platform | FastAPI · OCR · RAG · PostgreSQL |
+| **AI Museum** | Museum artifact recognition with multimodal AI assistance | CNN · TensorFlow · Multimodal AI |
+| **RecoverAI** | Autonomous revenue recovery and decision workflow | Agentic AI · Flask · React · Groq |
+| **AI-HireSphere** | AI-assisted resume analysis and candidate matching | FastAPI · React · Gemini |
+| **Geospatial Risk Mapping** | AI-based localized environmental risk analysis | ML · Satellite Data · Geospatial AI |
+| **Quantum Computing** | Quantum programming and algorithm implementations | Python · Quantum Computing |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
@@ -75,66 +83,19 @@ My work spans **Machine Learning, Deep Learning, NLP, Computer Vision, Generativ
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-
-</div>
-
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 Machine Learning
       ↓
-Deep Learning ── NLP ── Computer Vision
+Deep Learning · NLP · Computer Vision
       ↓
 Generative AI
       ↓
-RAG + LLM Applications
+RAG · LLM Applications
       ↓
-Agentic AI + Multi-Agent Systems
+Agentic AI · Multi-Agent Systems
       ↓
 Production AI Systems
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `Build • Experiment • Deploy • Improve`
-
-</div>

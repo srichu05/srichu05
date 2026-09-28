@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sri Charan Rao
+# R Sri Charan Rao
 
 ### AI/ML Engineer | AIML Student | Generative AI | Agentic AI | RAG
 

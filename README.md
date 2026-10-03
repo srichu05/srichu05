@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00AEEF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=srichu05&label=Profile%20Views&color=00AEEF&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-sri-charan-rao)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rsricharanrao@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00AEEF?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
@@ -157,7 +157,7 @@ flowchart TD
 I'm always happy to talk about AI/ML, share ideas, or collaborate on projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsricharanrao@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00AEEF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 <div align="center">

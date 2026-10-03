@@ -9,8 +9,8 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00AEEF&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-sri-charan-rao)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rsricharanrao@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00AEEF?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
@@ -140,11 +140,11 @@ flowchart TD
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=srichu05&theme=transparent&hide_border=true" height="170" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=00000000&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srichu05&theme=react-dark&bg_color=00000000&hide_border=true&area=true" width="95%" />
 
 </div>
 

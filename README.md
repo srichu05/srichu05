@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm R Sri Charan Rao
 
+
 ### AI/ML Engineer · Generative AI · Agentic AI · RAG
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Building+Practical+AI%2FML+Systems;Exploring+Generative+%26+Agentic+AI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;RAG+%7C+Computer+Vision+%7C+LLM+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Building+Practical+AI%2FML+Systems;Exploring+Generative+%26+Agentic+AI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;RAG+%7C+Computer+Vision+%7C+LLM+Applications"
+alt="Typing SVG" />
 
 <br>
 

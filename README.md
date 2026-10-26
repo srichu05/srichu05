@@ -94,7 +94,7 @@ I'm an **Artificial Intelligence & Machine Learning engineering student** who li
 | 📚 **Doc2Learn-AI** | Turns documents into an intelligent learning experience | `FastAPI` `OCR` `RAG` `PostgreSQL` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) · [Demo](#) |
 | 🏛️ **AI Museum** | Recognises museum artifacts and assists visitors with multimodal AI | `CNN` `TensorFlow` `Multimodal AI` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) |
 | 💸 **RecoverAI** | Autonomous revenue recovery and decision workflow | `Agentic AI` `Flask` `React` `Groq` | [Repo](https://github.com/srichu05/RecoverAI) · [Demo](#) |
-| 🧑‍💼 **AI-HireSphere** | Resume analysis and candidate matching | `FastAPI` `React` `Gemini` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) · [Demo](#) |
+| 🧑‍💼 **AI-HireSphere** | Resume analysis and candidate matching | `FastAPI` `React` `Gemini` | [Repo](https://github.com/srichu05/Hiresphere-AI) · [Demo](#) |
 | 🌍 **Geospatial Risk Mapping** | Localised environmental risk analysis from satellite data | `ML` `Satellite Data` `Geospatial AI` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) |
 | ⚛️ **Quantum Computing** | Quantum programming and algorithm implementations | `Python` `Quantum Computing` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) |
 

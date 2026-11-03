@@ -91,7 +91,7 @@ I'm an **Artificial Intelligence & Machine Learning engineering student** who li
 | Project | What it does | Tech | Links |
 |---|---|---|---|
 | 🧮 **Mini Meta-Agent** | Multi-agent mathematical reasoning with automated debate between agents | `Python` `RAG` `FAISS` `LLMs` | [Repo](https://github.com/srichu05/META-AGENT) |
-| 📚 **Doc2Learn-AI** | Turns documents into an intelligent learning experience | `FastAPI` `OCR` `RAG` `PostgreSQL` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) · [Demo](#) |
+| 📚 **Doc2Learn-AI** | Turns documents into an intelligent learning experience | `FastAPI` `OCR` `RAG` `PostgreSQL` | [Repo](https://github.com/srichu05/Doc2Learn-AI) · [Demo](#) |
 | 🏛️ **AI Museum** | Recognises museum artifacts and assists visitors with multimodal AI | `CNN` `TensorFlow` `Multimodal AI` | [Repo](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) |
 | 💸 **RecoverAI** | Autonomous revenue recovery and decision workflow | `Agentic AI` `Flask` `React` `Groq` | [Repo](https://github.com/srichu05/RecoverAI) · [Demo](#) |
 | 🧑‍💼 **AI-HireSphere** | Resume analysis and candidate matching | `FastAPI` `React` `Gemini` | [Repo](https://github.com/srichu05/Hiresphere-AI) · [Demo](#) |
